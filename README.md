@@ -1,17 +1,16 @@
-<img width="1440" alt="2" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/6363eaff-e3b6-4347-a15f-fe9cd66c339e"># SafeGaurd
-
+#SafeGaurd
 
   <table>
       <tr>
-        <td><img width="250" alt="1" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/96e10b32-d768-4b36-898b-2f405f143ef0">
+        <td><img width="300" alt="1" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/96e10b32-d768-4b36-898b-2f405f143ef0">
 </td>
-        <td><img width="250" alt="2" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/bbac5fb9-ead4-4095-babd-efbfa58b44ed">
+        <td><img width="300" alt="2" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/bbac5fb9-ead4-4095-babd-efbfa58b44ed">
 </td>
       </tr>
       <tr>
-        <td><img width="250" alt="3" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/79664aa6-e8c8-4d01-a6eb-aa53661d7f29">
-/td>
-        <td><img width="250" alt="4" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/09afb9b8-a797-411f-b306-a0acf815d075">
+        <td><img width="300" alt="3" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/79664aa6-e8c8-4d01-a6eb-aa53661d7f29">
+</td>
+        <td><img width="300" alt="4" src="https://github.com/goodbyebada/SafeGaurd/assets/90432681/09afb9b8-a797-411f-b306-a0acf815d075">
 </td>
       </tr>
     </table>
