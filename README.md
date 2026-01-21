@@ -15,6 +15,12 @@
       </tr>
     </table>
 
+
+
+https://github.com/user-attachments/assets/8f4e467c-e1ee-4340-a8ff-3fd1c7457786
+
+
+
 ### 소개
 
 > 괴물이 된 경비원를 피해 학교를 탈출해라!
